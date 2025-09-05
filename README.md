@@ -4,8 +4,8 @@
 This project explores the global COVID-19 dataset using **SQL queries** to uncover insights about infection rates, deaths, recoveries, and vaccination progress.  
 It demonstrates my ability to clean data, ask business-driven questions, and provide actionable insights through SQL.
 
-Dataset Used
-<a href="https://github.com/HModikoe-Analytics/covid19-SQL-Analysis/blob/main/Covid-19%20Portfolio-project.sql">Covid-19 Dataset</a>
+Queries Created 
+<a href="https://github.com/HModikoe-Analytics/covid19-SQL-Analysis/blob/main/Covid-19%20Portfolio-project.sql">Covid-19 Queries</a>
 
 # Key Questions for Covid-19 Data Analysis
 
