@@ -96,7 +96,9 @@ The analysis highlights both challenges and opportunities in pandemic management
 
 ✅ These recommendations show how data analysis can inform health policies, guide decision-making, and save lives.
 
-## Project Author : Happy Thabo Modikoe
+## 👤 Project Author
+**Happy Thabo Modikoe**  
+📧 happythabomodikoe | 🌐 www.linkedin.com/in/happy-thabo-modikoe   
 
 
   
