@@ -5,7 +5,7 @@ This project explores the global COVID-19 dataset using **SQL queries** to uncov
 It demonstrates my ability to clean data, ask business-driven questions, and provide actionable insights through SQL.
 
 Dataset Used
-<a href="https://github.com/HModikoe-Analytics/covid19-SQL-Analysis/blob/main/Covid-19%20Portfolio-project.sql">Covid-19 Dataset></a>
+<a href="https://github.com/HModikoe-Analytics/covid19-SQL-Analysis/blob/main/Covid-19%20Portfolio-project.sql">Covid-19 Dataset</a>
 
 # Key Questions for Covid-19 Data Analysis
 
@@ -96,7 +96,7 @@ The analysis highlights both challenges and opportunities in pandemic management
 
 ✅ These recommendations show how data analysis can inform health policies, guide decision-making, and save lives.
 
-#Project Author : Happy Thabo Modikoe
+## Project Author : Happy Thabo Modikoe
 
 
   
